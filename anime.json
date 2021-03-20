@@ -6,7 +6,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Studio Pierrot",
-            "img": "http://es.web.img3.acsta.net/pictures/19/08/07/10/08/2485376.jpg"
+            "img": "https://cdn.myanimelist.net/images/anime/5/17407.jpg"
         },
         {
             "name": "One Piece",
@@ -33,7 +33,7 @@
             "episode": 70,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://pics.filmaffinity.com/Monster_Serie_de_TV-705357606-large.jpg"
+            "img": "https://media.senscritique.com/media/000011621142/source_big/Monster.jpg"
         },
         {
             "name": "Death Note",
@@ -42,7 +42,7 @@
             "episode": 500,
             "categorie":"Animation | Adventure",
             "studio":"Madhouse",
-            "img": "http://pm1.narvii.com/6917/162cc16626c7be0876ac664ea3d700de4a394644r1-473-709v2_uhq.jpg"
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51Mcyuu4xrL._AC_.jpg"
         },
         {
             "name": "Violet Evergarden",
@@ -60,7 +60,7 @@
             "episode": 12,
             "categorie":"Action | Mystery",
             "studio":"Studio Pierrot",
-            "img": "http://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg"
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Tokyo_Ghoul_volume_1_cover.jpg/220px-Tokyo_Ghoul_volume_1_cover.jpg"
         },
         {
             "name": "Black Clover",
@@ -78,7 +78,7 @@
             "episode": 25,
             "categorie":"Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "http://es.web.img3.acsta.net/pictures/19/07/09/10/29/5095173.jpg"
+            "img": "https://as01.epimg.net/meristation/imagenes/2019/12/09/cover/663703041575882642.jpg"
         },
         {
             "name": "Nanatsu no Taizai",
@@ -96,16 +96,7 @@
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Madhouse",
-            "img": "https://3.bp.blogspot.com/-CJ9nbaPRG90/Wom3hniIIeI/AAAAAAAANwY/OhmN4sDcvgEzx2kjv9YWuPpl3on0SqDKwCLcBGAs/s1600/nanatsu-no-taizai.41033.jpg"
-        },
-        {
-            "name": "Hunter x Hunter (2011)",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "9.11",
-            "episode": 148,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://pics.filmaffinity.com/Hunter_x_Hunter_Serie_de_TV-444297736-mmed.jpg"
+            "img": "https://static.wikia.nocookie.net/wikiseriesjaponesas/images/e/e3/Kiseijuu-_Sei_no_Kakuritsu.jpg/revision/latest?cb=20180403140211&path-prefix=es"
         }
 
     ]
